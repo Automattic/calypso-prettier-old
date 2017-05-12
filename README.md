@@ -5,5 +5,5 @@ It is forked off of prettier v1.1.
 
 In order to install run 
 ```
-npm i --save-optional "git+https://github.com/samouri/prettier.git"
+npm i --save-dev "git+https://github.com/Automattic/calypso-prettier.git"
 ```

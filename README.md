@@ -1,6 +1,6 @@
-# WP-Prettier
+# Calypso-Prettier
 
-This is a fork of prettier that add in all of the extra spaces we use in wp-calypso.
+This is a fork of prettier that add in all of the extra spaces we use in Calypso.
 It is forked off of prettier v1.1.
 
 In order to install run 

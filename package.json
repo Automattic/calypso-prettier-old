@@ -26,7 +26,7 @@
     "jest": "19.0.1",
     "mkdirp": "^0.5.1",
     "rimraf": "^2.6.1",
-    "rollup": "0.41.1",
+    "rollup": "2.80.0",
     "rollup-plugin-commonjs": "7.0.0",
     "rollup-plugin-json": "2.1.0",
     "rollup-plugin-node-builtins": "2.0.0",
